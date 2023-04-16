@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "agent_imputter"
+  site-url: "https://Islam-boussakaya.github.io/agent_imputter/"
+  description: "{description}"
+  repo-branch: master
+  repo-url: "https://github.com/Islam-boussakaya/agent_imputter"
