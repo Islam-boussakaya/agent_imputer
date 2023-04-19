@@ -1,0 +1,96 @@
+{
+    "os": "Linux-5.19.0-32-generic-x86_64-with-glibc2.35",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-04-17T00:49:28.339809",
+    "startedAt": "2023-04-17T00:49:25.726194",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "nbs/Model/agent_imputter.ipynb",
+    "root": "/home/user/Git_repos/agent_imputter",
+    "git": {
+        "remote": "git@github.com:Islam-boussakaya/agent_imputter.git",
+        "commit": "edeb753bc8fb5a3b8f95d7449e6dfb4463f50c1e"
+    },
+    "email": "boussakayaislam1@gmail.com",
+    "host": "user",
+    "username": "user",
+    "executable": "/home/user/anaconda3/envs/agent_imputter/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1368.3315,
+        "min": 400.0,
+        "max": 4700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1470.144,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1600.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1600.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1203.715,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1244.451,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2144.202,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1600.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1501.554,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1600.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2526.224,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1600.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1600.0,
+            "min": 400.0,
+            "max": 4700.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 247.5633201599121
+    },
+    "memory": {
+        "total": 62.523887634277344
+    }
+}

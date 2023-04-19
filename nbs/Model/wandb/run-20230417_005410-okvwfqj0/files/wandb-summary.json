@@ -1,0 +1,1 @@
+{"validation loss": 0.20511478185653687, "epoch": 1, "trainer/global_step": 373, "_timestamp": 1681689649.3324668, "_runtime": 398.32748794555664, "_step": 3, "training loss": 0.2167603075504303, "_wandb": {"runtime": 112}}
